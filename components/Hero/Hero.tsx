@@ -7,9 +7,9 @@ export default function Hero() {
   let minute = prompt("Enter Number of Minutes: ")
   let second = prompt("Enter Number of seconds: ")
     
-        document.getElementById("hours").innerHTML = hour;
-        document.getElementById("minutes").innerHTML = minute;
-        document.getElementById("seconds").innerHTML = second;
+        // document.getElementById("hours").innerHTML = hour;
+        // document.getElementById("minutes").innerHTML = minute;
+        // document.getElementById("seconds").innerHTML = second;
 
     }
 
