@@ -1,18 +1,8 @@
 'use client'
-import React from 'react'
+import React from "react"
 
 export default function Hero() {
-//  function setime(){
-//   let hour = prompt("Enter Number of Hours: ")
-//   let minute = prompt("Enter Number of Minutes: ")
-//   let second = prompt("Enter Number of seconds: ")
-    
-        // document.getElementById("hours").innerHTML = hour;
-        // document.getElementById("minutes").innerHTML = minute;
-        // document.getElementById("seconds").innerHTML = second;
-
-    // }
-
+  
   return (
     <div className='main-hero-page'>
       

@@ -159,11 +159,12 @@ li:active {
 }
 .set-time:hover{
   background-color: rgba(0, 0, 0, 0.89);
-  transition: 0.5s;
+  transition: 1s;
   border: 1px solid rgb(32, 32, 32);
   color: rgba(255, 255, 255, 0.623);
 }
 .set-time:active{
+  transition: 0.5s;
   background-color: rgba(0, 0, 0, 0.582);
   color: rgba(255, 0, 0, 0.623);
   /* font-weight: 750; */

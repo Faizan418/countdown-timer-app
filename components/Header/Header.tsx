@@ -7,7 +7,6 @@ export default function Header() {
   function toggleMenu() {
     const stul = document.querySelector('ul');
       stul?.classList.toggle('active');
-
     }
 
   return (
@@ -25,7 +24,7 @@ export default function Header() {
         <ul>
           <li><Link href={"/"}>Home</Link></li>
           <li><Link href={"/"}>About</Link></li>
-          <li><Link href={"/"}>Portfolio</Link></li>
+          <li><Link href={"https://portfolio2-eight-puce.vercel.app/"} target='_blank'>Portfolio</Link></li>
         </ul>
         </div>
       </nav> 
